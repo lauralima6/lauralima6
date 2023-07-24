@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## ⚡ EXPERTISE 
-   I'm Laura Lima, developer front-end
+   I'm Laura, front-end developer and Information Technology student with just over a year of experience, where I got to know and work with some technologies.
 ## 🖥 Tech Stacks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
