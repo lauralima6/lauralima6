@@ -33,4 +33,4 @@
 
 ## 📊 STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauralima6&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralima6&layout=pie&theme=radical)](https://github.com/lauralima6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauralima6&layout=donut&theme=radical)](https://github.com/lauralima6/github-readme-stats)
